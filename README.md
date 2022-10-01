@@ -1,7 +1,7 @@
 # Finger_Counter
 Counting the raised fingers with mediapipe by opining your camera 
 
-## clone tyhe repo 
+## clone the repo 
 ```console
  git clone https://github.com/KEROLIS/Finger_Counter.git
 
